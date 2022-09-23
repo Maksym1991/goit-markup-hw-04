@@ -283,6 +283,8 @@ a.current {
 
 .team {
   background-color: var(--body-third-color);
+  margin: 0 auto;
+  max-width: 1600px;
 }
 
 .team-title {
